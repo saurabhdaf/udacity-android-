@@ -1,1 +1,1 @@
-# udacity-blockchain
+# building-simple-private-blockchain
